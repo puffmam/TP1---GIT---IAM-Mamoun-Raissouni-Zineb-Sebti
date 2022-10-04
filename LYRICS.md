@@ -1,5 +1,13 @@
 #  L’École du micro d’argent 
 IAM \
-ChœurL'École du micro d'argentL'École du micro d'argentL'Écoledu micro d'argentL'École du micro d'argentL'École du micro d'argentL'École du micro d'argentL'École du micro d'argent
+Chœur \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'Écoledu micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent 
+
 
 
