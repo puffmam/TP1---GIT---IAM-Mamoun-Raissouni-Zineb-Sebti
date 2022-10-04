@@ -33,4 +33,10 @@ Je sème la terreur quand je frappe d'estoc et de taille\
 Je sens l'esprit du félin m'envahir\
 À ce stade seul le sang me procure du plaisir\
 Mes griffes gravent les couleurs de l'Empire\
-Plus grand que celui d'Alexandre dont je suis le défenseur\
+Plus grand que celui d'Alexandre dont je suis le défenseur
+
+ \
+  \
+L'École du micro d'argent \
+L'École du micro d'argent
+
