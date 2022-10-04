@@ -1,6 +1,6 @@
 #  L’École du micro d’argent 
 IAM 
-<p style='text-align: right;'>Chœur</p> 
+## <p style='text-align: right;'>Chœur</p>
 
 L'École du micro d'argent \
 L'École du micro d'argent \
@@ -10,7 +10,7 @@ L'École du micro d'argent \
 L'École du micro d'argent 
 L'École du micro d'argent 
 
-<p style='text-align: right;'>Shurik'n</p> 
+## <p style='text-align: right;'>Shurik'n</p> 
 
 Assis en tailleur, voilà des heures que je médite \
 Sur ma montagne et je n'arrive pas à faire le vide \
@@ -49,7 +49,7 @@ Je représente \
 L'École du micro d'argent \
 L'École du micro d'argent 
  
-<p style='text-align: right;'>Akhenaton</p>
+## <p style='text-align: right;'>Akhenaton</p>
 
 Mon sabre scintille, je médite accroupi sous les branches d'un saule \
 Pleure, je défends l'honneur de mon école, fils \
